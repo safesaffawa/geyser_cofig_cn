@@ -1,4 +1,3 @@
-<img src="file:///D:/Documents/Tencent%20Files/3282697914/nt_qq/nt_data/Pic/2023-08/Ori/02b4a4fb6ca4efe2a4cd345aacea5f60.png" title="" alt="02b4a4fb6ca4efe2a4cd345aacea5f60.png" data-align="center">
 
 <h1 align="center">Chinese config for</h1>
 <h3 align="center">Geyser</h3>
