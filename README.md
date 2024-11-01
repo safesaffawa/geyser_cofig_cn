@@ -6,8 +6,6 @@
 
 Chinese confing for Geyser ( 下文简称 C-config )。
 
-由于可预期的 C-config 版本更新，C-config 将最早在第一个 QQNT For Windows 正式版（无白名单版本）推出后开源。
-
 目前此仓库只是仅作文档及版本发布用。
 
 C-config 仅为优化 Geyser 配置文件的使用体验而生，**如有问题，请联系我们修改**。
@@ -32,12 +30,6 @@ C-config 可能将于未来的某一天突然跑路。
 
 - 与原版Geyser区别是配置文件
 
-# 预览
-
-![image](https://github.com/BetterQQNT/BetterQQNT/assets/66859419/4b166ea9-d8fb-4b0d-8d1e-ef754f0d1eda)
-
-![image](https://github.com/BetterQQNT/BetterQQNT/assets/66859419/0057c818-a4ed-4266-a1eb-e779cdfeee8b)
-
 # 安装
 
 ### 替换文件
@@ -58,16 +50,6 @@ C-config 可能将于未来的某一天突然跑路。
 ### 什么？问后续更不更新
 
 当然是咕咕咕
-
-# 协议安全风险
-
-如你所见，此插件的一个功能为 RedProtocol 机器人协议。
-此协议将允许机器人框架程序化操纵 Electron 应用并发送消息。
-此协议在第一次使用时将会生成一个 token，并使用此 token 来完成鉴权。
-请不要泄露此 token。
-导致账号胡乱发送消息甚至封号后果自负。
-
-BetterQQNT 计划内将支持关闭此功能。
 
 # 跨平台？
 
